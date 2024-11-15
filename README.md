@@ -5,7 +5,9 @@ Bienvenido/a a mi pagina de Github.
 
 Soy Pol Gonzàlez, estudiante y desarrollador que vive en Barcelona.
 
+<p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
