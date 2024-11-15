@@ -1,9 +1,10 @@
-## Hi there 👋
+## Buenas! 👋
 
 
-**PolGA24/PolGA24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido/a a mi pagina de Github.
 
-Here are some ideas to get you started:
+Soy Pol Gonzàlez, estudiante y desarrollador que vive en Barcelona.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
