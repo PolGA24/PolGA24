@@ -16,6 +16,10 @@ Soy Pol Gonzàlez, estudiante y desarrollador que vive en Barcelona, España <im
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PolGA24&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolGA24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/PolGA24/PolGA24/master/assets/bar_graph.png)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
