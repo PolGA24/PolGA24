@@ -5,6 +5,7 @@ Bienvenido/a a mi pagina de Github.
 
 Soy Pol Gonzàlez, estudiante y desarrollador que vive en Barcelona.
 
+ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
